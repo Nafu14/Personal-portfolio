@@ -1,0 +1,24 @@
+/* ========== font declaration ========== */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Qahiri&display=swap');
+
+
+/* common css start */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+ol,ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+a,p,ol,ul,h1,h2,h3,h4,h5,h6,span{
+    margin: 0;
+    padding: 0;
+}
+/* common css end */
